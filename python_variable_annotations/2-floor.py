@@ -5,3 +5,4 @@
 def floor(n: float) -> int:
     """Returns the floor of a number"""
     return int(n)
+    
